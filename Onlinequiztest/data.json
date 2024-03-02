@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "Title": "NewQuiz",
+    "Category": "History",
+    "Numberofquestions": 10,
+    "Maximummark": 90,
+    "Totalmarks": 100
+  }
+]
